@@ -1,9 +1,8 @@
 import 'dart:io';
 
-import 'package:file_picker/file_picker.dart';
+import 'package:cloud_storage_app/cloudPage.dart';
 import 'package:flutter/material.dart';
 
-import 'package:cloud_storage_app/cloudPage.dart';
 import 'package:velocity_x/velocity_x.dart';
 
 class UploadPage extends StatefulWidget {
